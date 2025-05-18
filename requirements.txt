@@ -1,0 +1,5 @@
+streamlit
+oandapyV20
+gspread
+oauth2client
+requests
